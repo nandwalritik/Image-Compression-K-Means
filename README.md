@@ -1,1 +1,1 @@
-# Image-Compression-K--Means
+# Image-Compression K-Means
